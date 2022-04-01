@@ -21,6 +21,7 @@
     <modules>
         <module>spring-boot-module-1</module>
         <module>spring-boot-module-2</module>
+        <module>shared-library</module>
     </modules>
 
 </project>
